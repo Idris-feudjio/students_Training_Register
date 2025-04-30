@@ -1,0 +1,130 @@
+{
+  "register": [
+    {
+      "id": 7729,
+      "student": {
+        "id": 3222,
+        "Name": "Idris",
+        "gender": "M"
+      },
+      "training": {
+        "id": 6322,
+        "Name": "Java",
+        "time": 4,
+        "cost": 150000
+      }
+    },
+    {
+      "id": 7966,
+      "student": {
+        "id": 9369,
+        "Name": "Claude",
+        "gender": "M"
+      },
+      "training": {
+        "id": 9965,
+        "Name": "HTML/CSS",
+        "time": 1,
+        "cost": 50000
+      }
+    },
+    {
+      "id": 3139,
+      "student": {
+        "id": 3784,
+        "Name": "Van Dam",
+        "gender": "M"
+      },
+      "training": {
+        "id": 8970,
+        "Name": "Python",
+        "time": 3,
+        "cost": 100000
+      }
+    },
+    {
+      "id": 6230,
+      "student": {
+        "id": 7207,
+        "Name": "Joe",
+        "gender": "M"
+      },
+      "training": {
+        "id": 7696,
+        "Name": "Java",
+        "time": 4,
+        "cost": 150000
+      }
+    },
+    {
+      "id": 7446,
+      "student": {
+        "id": 7965,
+        "Name": "Kamto",
+        "gender": "M"
+      },
+      "training": {
+        "id": 8718,
+        "Name": "HTML/CSS",
+        "time": 1,
+        "cost": 50000
+      }
+    },
+    {
+      "id": 7117,
+      "student": {
+        "id": 7818,
+        "Name": "Dany",
+        "gender": "M"
+      },
+      "training": {
+        "id": 2114,
+        "Name": "JavaScript",
+        "time": 2,
+        "cost": 80000
+      }
+    },
+    {
+      "id": 3727,
+      "student": {
+        "id": 8831,
+        "Name": "Fred",
+        "gender": "F"
+      },
+      "training": {
+        "id": 6141,
+        "Name": "Python",
+        "time": 3,
+        "cost": 100000
+      }
+    },
+    {
+      "id": 2231,
+      "student": {
+        "id": 9324,
+        "Name": "Paul",
+        "gender": "M"
+      },
+      "training": {
+        "id": 6275,
+        "Name": "Java",
+        "time": 4,
+        "cost": 150000
+      }
+    },
+    {
+      "id": 8428,
+      "student": {
+        "id": 6109,
+        "Name": "jules",
+        "gender": "M"
+      },
+      "training": {
+        "id": 9726,
+        "Name": "JavaScript",
+        "time": 2,
+        "cost": 80000
+      }
+    }
+  ]
+}
